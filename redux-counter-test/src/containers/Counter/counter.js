@@ -6,7 +6,7 @@ const counter=(props)=> {
     return (
         <>
             <header className="App-header">
-                COUNT: {props.ctr}
+                COUNTs: {props.ctr}
             </header>
             <div className="row">
                 <div className="col-3">
