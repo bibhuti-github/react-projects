@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.header-top-left{
+  font-size:12px;
+  padding: 0px 5px;
+  color: darkgray;
+}
+.header-top-right{
+  font-size:15px;
+  color: darkgray;
+  border:1px solid #f5ece1;
+  border-radius: 50px;
+  padding: 5px 8px;
+  margin-left: 10px;
+  background-color: #f5ece1;
+}
+.navbar-collapse{
+  margin-left:20%;
+}
+.navbar-nav .nav-link{
+  margin-left: 20px;
+}
+.navbar-nav .nav-link:hover{
+  background-color: #ffff004f;
+}
+.navbar{
+  background-color: #f5ece1;
+}
+
+.homepage-bgimage{
+  max-width: 100%;
+  height: 100vh;
+}
+.header-bgimage{
+  max-width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 16px;
+  z-index: 1;
+}
+.banner-title{
+  text-align: left;
+}
+.banner-title span{
+  font-family: cursive;
+  font-size: 75px;
+  color: #fff;
+}
+.banner-title .header-banner-link{
+  padding: 30px;
+  background: yellow;
+  font-weight: 700;
+  color: #000;
+  border: none;
+}
+.banner-navigation-btn-left .btn{
+  padding: 30px 0px;
+  width: 15%;
+  background: #fff;
+  border: none;
+  color: #454e57;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  font-size: 12px;
+  float:right;
+}
+.banner-navigation-btn-right .btn{
+  padding: 30px 0px;
+  width: 15%;
+  background: #404a3d;
+  border: none;
+  color: #ffffff;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  font-size: 12px;
+  float:right;
+}
+.col-12.banner-navigation-btn.row{
+  padding: 0;
+  margin-top: 195px;
+  margin-left:0px;
+}
+.col-12.banner-navigation-btn.row .col{
+  padding: 0;
+}
